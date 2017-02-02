@@ -1,7 +1,10 @@
 package asa.chee.animals;
 
 /**
- * Created by Анастасия on 02.02.2017.
+ * Класс, представляющий собаку.
+ * Расширяет класс <code>Animal</code>.
+ *
+ * author  Simonova A.A
  */
 public class Dog extends Animal{
 

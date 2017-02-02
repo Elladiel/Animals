@@ -1,7 +1,10 @@
 package asa.chee.animals;
 
 /**
- * Created by Анастасия on 02.02.2017.
+ * Класс, представляющий енота.
+ * Расширяет класс <code>Animal</code>.
+ *
+ * author  Simonova A.A
  */
 public class Raccoon extends Animal {
 
@@ -12,16 +15,4 @@ public class Raccoon extends Animal {
     public Raccoon(String name, String voice) {
         super(name, voice);
     }
-
-    @Override
-    public String getName() {
-        return super.getName();
-    }
-
-    @Override
-    public String getVoice() {
-        return super.getVoice();
-    }
-
-
 }

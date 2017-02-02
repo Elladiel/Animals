@@ -1,7 +1,10 @@
 package asa.chee.animals;
 
 /**
- * Created by Анастасия on 02.02.2017.
+ * Класс, представляющий кошку.
+ * Расширяет класс <code>Animal</code>.
+ *
+ * author  Simonova A.A
  */
 public class Cat extends Animal {
 

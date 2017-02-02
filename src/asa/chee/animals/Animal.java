@@ -1,7 +1,10 @@
 package asa.chee.animals;
 
 /**
- * Created by Анастасия on 02.02.2017.
+ * Абстрактный класс, представляющий животное(<code>Animal</code>).
+ * Содержит реализованный метод <code>printDisplay</code>.
+ *
+ * @author  Simonova A.A
  */
 public abstract class Animal {
     public static final String OUTPUT_FORMAT_LINE
